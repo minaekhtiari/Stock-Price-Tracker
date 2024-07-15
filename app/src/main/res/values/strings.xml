@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Stock Price Tracker</string>
+    <string name="item_1">PNL\n\nPOSTNL</string>
+    <string name="item_2">HEIO\n\nHEINEKEN HOLDING</string>
+    <string name="item_3">ING\n\nING GROUP OEP N.V.</string>
+    <string name="item_4">ADYEN\n\nADYEN GROUP</string>
+    <string name="item_5">ABN\n\nABN AMRO BANKING</string>
+    <string name="item_6">ASM\n\nASM INTERNATIONAL N.V.</string>
+    <string name="item_7">KPN\n\nKPN KON</string>
+    <string name="item_8">WKL\n\nWOLTERS KLUWER</string>
+    <string name="item_9">FUR \n\nFUGRO</string>
+    <string name="item_10">TOM2\n\nTOMTOM</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="stock_price_tracker">Stock Price Tracker</string>
+</resources>

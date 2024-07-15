@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_extra_small">5dp</dimen>
+    <dimen name="padding_small">10dp</dimen>
+    <dimen name="padding_extra_medium">16dp</dimen>
+    <dimen name="padding_medium">50dp</dimen>
+    <dimen name="padding_large">120dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+
+    <dimen name="font_size_small">14sp</dimen>
+    <dimen name="font_size_medium">16sp</dimen>
+
+</resources>
